@@ -1,4 +1,4 @@
-# gautamkumar09-# 💫 About Me:
+# 💫 About Me:
 🎓 Passionate Web Developer with a focus on front-end technologies and creating user-friendly interfaces.<br>🌍 From Bihar, India, blending cultural creativity into technical projects.<br>🚀 Tech Enthusiast constantly exploring new technologies like JavaScript, React, and more.<br>💡 Problem Solver, always eager to tackle challenges with innovative solutions.<br>🎮 Lover of Games and Coding, balancing both worlds of creativity and logic.<br>📚 Lifelong Learner, dedicated to growing and expanding skills with every new project.
 
 
